@@ -2,7 +2,6 @@
 using namespace std;
 
 FILE* pollinom;
-FILE* new_pollinom;
 
 static void fill_poll(char* poll1, char *poll2);
 void file_read(){
